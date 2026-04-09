@@ -1,0 +1,5 @@
+{
+  "name": "Local Texas Hold'em",
+  "description": "A local multiplayer Texas Hold'em card game where players are dealt 2 cards and use community cards to make the best hand.",
+  "requestFramePermissions": []
+}
