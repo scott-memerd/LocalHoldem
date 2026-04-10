@@ -243,6 +243,7 @@ export default function App() {
             </div>
           </div>
 
+
           <button
             onClick={startGame}
             className="w-full py-4 bg-amber-600 hover:bg-amber-500 text-white rounded-xl font-bold text-lg shadow-lg transition-all hover:scale-[1.02] active:scale-[0.98] flex items-center justify-center gap-2"
