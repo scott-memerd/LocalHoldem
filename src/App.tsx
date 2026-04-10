@@ -235,7 +235,7 @@ export default function App() {
               </button>
               <span className="text-3xl font-bold w-12">{numPlayers}</span>
               <button 
-                onClick={() => setNumPlayers(Math.min(8, numPlayers + 1))}
+                onClick={() => setNumPlayers(Math.min(99, numPlayers + 1))}
                 className="w-10 h-10 rounded-full bg-emerald-800 hover:bg-emerald-700 flex items-center justify-center transition-colors"
               >
                 +
